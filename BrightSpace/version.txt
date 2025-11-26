@@ -1,0 +1,3 @@
+A ideia é fazer uma extensão pro site do BrightSpace só pra ajudar na escolha de alternativas e etc.
+Tipo, se eu clicasse com o botão direito na alternativa, ela ficaria cinza. O básico é isso.
+Claro que daria pra extrapolar fácil - deixar por cores diferentes, por exemplo, mas aí já é demais kkk.
