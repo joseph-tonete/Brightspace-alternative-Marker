@@ -1,1 +1,2 @@
-opa bão?
+Esse projeto é uma extensão do Google Chrome para o site do BrightSpace. A ideia dele é te deixar marcar as alternativas que você considera incorretas nos questionários e nas provas do site.
+Brightspace-alternative-Marker

@@ -1,0 +1,26 @@
+{
+    "name":"Brightspace question marker", 
+    "version":"1.0",
+    "description":"Question marker for Brightspace",
+    "manifest_version":3,
+    "icons": {
+        "128":"images/Icon_128.png",
+        "48":"images/Icon_48.png",
+        "32":"images/Icon_32.png",
+        "16":"images/Icon_16.png"
+    },
+    "content_scripts": [
+        {
+            "js":["webpage/changepage.js"],
+            "matches": [
+                "https://*.brightspace.com/*",
+                "https://*.brightspace.com/*",
+                "https://*.brightspace.eu/*",
+                "https://*.d2l.com/*"
+            ]
+        }
+    ],
+    "permissions": ["activeTab", "scripting"]
+}
+
+
